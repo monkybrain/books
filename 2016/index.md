@@ -2,3 +2,4 @@
 
 - [Utopia for Realists (Rutger Bregman)](utopia_for_realists/index.md)
 - [Mastering Bitcoin (Andreas M. Antonopoulos)](mastering_bitcoin/index.md)
+- [Blockchain Revolution (Don & Alex Tapscott)](blockchain_revolution/index.md)
